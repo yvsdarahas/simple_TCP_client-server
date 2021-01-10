@@ -1,1 +1,1 @@
-# np_assignment1
+# TCP Client/Server using sockets
